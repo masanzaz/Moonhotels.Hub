@@ -1,0 +1,16 @@
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\MockData\hotelLegsResponse.json
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\Moonhotels.Hub.Infrastructure.deps.json
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\Moonhotels.Hub.Infrastructure.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\Moonhotels.Hub.Infrastructure.pdb
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\Moonhotels.Hub.Domain.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\bin\Debug\net6.0\Moonhotels.Hub.Domain.pdb
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.AssemblyInfo.cs
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.csproj.CopyComplete
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\refint\Moonhotels.Hub.Infrastructure.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\Moonhotels.Hub.Infrastructure.pdb
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Infrastructure\obj\Debug\net6.0\ref\Moonhotels.Hub.Infrastructure.dll

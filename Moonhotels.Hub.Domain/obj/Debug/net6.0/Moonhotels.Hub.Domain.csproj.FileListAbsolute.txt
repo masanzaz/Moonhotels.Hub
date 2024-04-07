@@ -1,0 +1,11 @@
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\bin\Debug\net6.0\Moonhotels.Hub.Domain.deps.json
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\bin\Debug\net6.0\Moonhotels.Hub.Domain.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\bin\Debug\net6.0\Moonhotels.Hub.Domain.pdb
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.AssemblyInfoInputs.cache
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.AssemblyInfo.cs
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.csproj.CoreCompileInputs.cache
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\refint\Moonhotels.Hub.Domain.dll
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\Moonhotels.Hub.Domain.pdb
+C:\projects\test\Moonhotels.Hub\Moonhotels.Hub.Domain\obj\Debug\net6.0\ref\Moonhotels.Hub.Domain.dll
