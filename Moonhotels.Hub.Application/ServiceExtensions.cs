@@ -15,6 +15,7 @@ namespace Moonhotels.Hub.Application
             services.AddTransient<ISearchService, SearchService>();
             services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddTransient<IProviderConnector, HotelLegsConnector>();
+            services.AddTransient<IProviderConnector, TravelDoorXConnector>();
         }
     }
 }

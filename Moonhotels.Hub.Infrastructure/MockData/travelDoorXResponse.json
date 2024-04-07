@@ -4,25 +4,25 @@
       "room": 1,
       "meal": 1,
       "canCancel": false,
-      "price": 123.48
+      "price": 114.48
     },
     {
       "room": 1,
       "meal": 1,
       "canCancel": true,
-      "price": 150.00
+      "price": 149.00
     },
     {
       "room": 2,
       "meal": 1,
       "canCancel": false,
-      "price": 130.25
+      "price": 148.25
     },
     {
       "room": 2,
       "meal": 2,
       "canCancel": false,
-      "price": 128.38
+      "price": 165.38
     }
   ]
 }
